@@ -12,7 +12,7 @@ READ ME
 2)
 	a.	gameoflife.cpp
 
-3) There is only one file. I understand I was suppose to make a .h and main file, unfortunately I ran out of time. The code does work for the most part. 
+3) There is only one file. I understand I was suppose to make a .h and main file, unfortunately I ran out of time.
 
 4)	Sources:
   a.  https://medium.com/@jcapona/dynamic-array-implementation-cpp-9deadaf1ba8e
@@ -20,4 +20,4 @@ READ ME
   c.  https://www.learncpp.com/cpp-tutorial/6-8-pointers-and-arrays/
   d.  https://codereview.stackexchange.com/questions/47167/conways-game-of-life-in-c/47171
   e.  https://www.experts-exchange.com/questions/20404861/system-pause-using-g-compiler.html
-	f.	https://stackoverflow.com/questions/18728754/checking-cin-input-stream-produces-an-integer
+  f.  https://stackoverflow.com/questions/18728754/checking-cin-input-stream-produces-an-integer
